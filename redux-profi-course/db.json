@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 5,
+      "title": "xcxvxcv",
+      "body": "typicode"
+    },
+    {
+      "id": 9,
+      "title": "json-server",
+      "body": "typicode"
+    },
+    {
+      "title": "sdasdasd",
+      "body": "sdasdasd",
+      "id": 10
+    },
+    {
+      "title": "adadasdasd",
+      "body": "adadasdasd",
+      "id": 11
+    },
+    {
+      "title": "1111",
+      "body": "1111",
+      "id": 12
+    },
+    {
+      "title": "324234",
+      "body": "324234",
+      "id": 13
+    },
+    {
+      "title": "23",
+      "body": "23",
+      "id": 14
+    },
+    {
+      "title": "sadasdasd",
+      "body": "sadasdasd",
+      "id": 15
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

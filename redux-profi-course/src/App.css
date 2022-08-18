@@ -1,0 +1,8 @@
+.post__item {
+  font-size: 18px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid #12a8b3;
+  margin: 20px;
+}
